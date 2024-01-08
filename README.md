@@ -61,3 +61,7 @@ Nx comes with local caching already built-in (check your `nx.json`). On CI you m
 - [Join the community](https://nx.dev/community)
 - [Subscribe to the Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - [Follow us on Twitter](https://twitter.com/nxdevtools)
+
+
+## Deleting the Branch with Daemon LOG
+ -  git filter-branch --tree-filter 'rm -rf .nx/cache/d/daemon.log' HEAD
