@@ -1,0 +1,33 @@
+<main>
+  <div id='bodybox'>
+    <div class="container-md mt-5">
+      <h1 class="display-6">Quiz Generator</h1>
+    </div>
+    <div id='chatborder' class="container-md">
+      <div class="row mt-2">
+        <div class="col-md-9"></div>
+      </div>
+
+      <div id="chatlog6" *ngIf="dataFromGPT" class="chatlog">
+        <div *ngFor="let gpt of dataFromGPT;let parenti=index" class="form-group">
+          <br>
+          <div >
+            <label class="display-7">{{gpt?.question}}</label>
+          </div>
+          <br>
+          <div class="form-check" *ngFor="let gptoptions of gpt?.options;let i = index">
+
+            <label class="form-check-label" for="check{{i}}">
+              {{gptoptions}}
+              <input type="radio" [name]="(i+parenti).toString()" class="form-check-input" id="check{{i}}" [value]="gptoptions">
+            </label>
+         </div>
+        </div>
+        </div>
+      <div class="resp-textbox">
+        <input #inputbox (keyup.enter)="loadQuestions(inputbox.value)" type="text" name="chat" id="chatbox"  placeholder="Input topic for MCQ" onfocus="placeHolder()">
+      </div>
+      <p *ngIf="errorMessage && errorMessage.message" class="text-danger">{{errorMessage.message}}</p>
+    </div>
+    </div>
+</main>

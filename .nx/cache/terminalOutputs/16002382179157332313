@@ -1,0 +1,233 @@
+[36m⠋[39m Generating browser application bundles (phase: setup)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mvendor.js[39m[37m                [2m | [22mvendor       [2m | [22m  [96m3.47 MB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mstyles.css, styles.js[39m[37m    [2m | [22mstyles       [2m | [22m[96m905.52 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mpolyfills.js[39m[37m             [2m | [22mpolyfills    [2m | [22m[96m333.17 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime      [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mmain.js[39m[37m                  [2m | [22mmain         [2m | [22m  [96m8.92 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1m [22m                        [2m | [22m[1mInitial Total[22m[2m | [22m  [1m4.70 MB[22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core [2m | [22m[96m362.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[92mlibs_auth_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-auth [2m | [22m  [96m6.11 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:22:21.584Z[39m[37m[22m - Hash: [1m[37m6fbb887e1d0287d8[39m[37m[22m - Time: [1m[37m4357[39m[37m[22mms[0m[39m
+[1m[33m[39m[22m
+[1m[33m[0m[33mWarning: [39m[33m[0m/Users/debanilguha/Desktop/Projects/DEB-GPT Full Stack/deb-gpt/libs/core/src/lib/core.module.ts depends on 'prismjs'. CommonJS or AMD dependencies can cause optimization bailouts.[39m[22m
+[1m[33mFor more info see: https://angular.io/guide/build#configuring-commonjs-dependencies[39m[22m
+[1m[33m[39m[22m
+[1m[33m[39m[22m
+[37m[39m
+[37m** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **[39m
+[37m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠏[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠋[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m362.13 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:22:48.475Z[39m[37m[22m - Hash: [1m[37mc5311e857e1fb362[39m[37m[22m - Time: [1m[37m2771[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m362.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:22:53.728Z[39m[37m[22m - Hash: [1m[37ma01e15b4a590625f[39m[37m[22m - Time: [1m[37m354[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/shared/environments/src/lib/environment.ts[0m:[93m4[0m:[93m3[0m - [91merror[0m[90m TS18004: [0mNo value exists in scope for the shorthand property 'SAMREGION'. Either declare one or provide an initializer.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m4[0m   SAMREGION[39m[22m
+[1m[31m[7m [0m [91m  ~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m362.16 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:23:00.981Z[39m[37m[22m - Hash: [1m[37m20e59ecc9b845f65[39m[37m[22m - Time: [1m[37m366[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m367.79 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:23:12.016Z[39m[37m[22m - Hash: [1m[37m247d5ca8a016e082[39m[37m[22m - Time: [1m[37m464[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/core/src/lib/gptservice.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: /Users/debanilguha/Desktop/Projects/DEB-GPT Full Stack/deb-gpt/libs/core/src/lib/gptservice.service.ts: Unexpected token (8:70)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m  6 |[39m[31m     constructor(http) {[0m[39m[22m
+[1m[31m[0m [90m  7 |[39m[31m         [36mthis[39m[31m[33m.[39m[31mhttp [33m=[39m[31m http[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m  8 |[39m[31m         [36mthis[39m[31m[33m.[39m[31m[33mCUSTOMURL[39m[31m [33m=[39m[31m [32m`https://${environment.SAMAPI}.execute-api.${}.amazonaws.com/prod`[39m[31m[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                                       [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m  9 |[39m[31m         [36mthis[39m[31m[33m.[39m[31mopenApiHeaders [33m=[39m[31m [36mnew[39m[31m [33mHttpHeaders[39m[31m()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 10 |[39m[31m         [36mthis[39m[31m[33m.[39m[31mopenApiHeaders [33m=[39m[31m [36mthis[39m[31m[33m.[39m[31mopenApiHeaders[33m.[39m[31m[36mset[39m[31m([32m'Authorization'[39m[31m[33m,[39m[31m [32m`Bearer ${environment.OPENAPITOKEN}`[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/core/src/lib/gptservice.service.ts[0m:[93m11[0m:[93m68[0m - [91merror[0m[90m TS1109: [0mExpression expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   private CUSTOMURL = `https://${environment.SAMAPI}.execute-api.${}.amazonaws.com/prod`;[39m[22m
+[1m[31m[7m  [0m [91m                                                                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m362.15 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:23:13.297Z[39m[37m[22m - Hash: [1m[37m21f0f24fe9e4d342[39m[37m[22m - Time: [1m[37m400[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/core/src/lib/gptservice.service.ts[0m:[93m11[0m:[93m68[0m - [91merror[0m[90m TS2304: [0mCannot find name 'e'.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   private CUSTOMURL = `https://${environment.SAMAPI}.execute-api.${e}.amazonaws.com/prod`;[39m[22m
+[1m[31m[7m  [0m [91m                                                                   ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m367.79 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:23:15.727Z[39m[37m[22m - Hash: [1m[37m12455bd366d4010c[39m[37m[22m - Time: [1m[37m272[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/core/src/lib/gptservice.service.ts[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/@angular-devkit/build-angular/src/tools/babel/webpack-loader.js):[39m[22m
+[1m[31mSyntaxError: /Users/debanilguha/Desktop/Projects/DEB-GPT Full Stack/deb-gpt/libs/core/src/lib/gptservice.service.ts: Unexpected token (8:82)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m [90m  6 |[39m[31m     constructor(http) {[0m[39m[22m
+[1m[31m[0m [90m  7 |[39m[31m         [36mthis[39m[31m[33m.[39m[31mhttp [33m=[39m[31m http[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m[31m[1m>[22m[1m[39m[31m[90m  8 |[39m[31m         [36mthis[39m[31m[33m.[39m[31m[33mCUSTOMURL[39m[31m [33m=[39m[31m [32m`https://${environment.SAMAPI}.execute-api.${environment.}.amazonaws.com/prod`[39m[31m[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m    |[39m[31m                                                                                   [31m[1m^[22m[1m[39m[31m[0m[39m[22m
+[1m[31m[0m [90m  9 |[39m[31m         [36mthis[39m[31m[33m.[39m[31mopenApiHeaders [33m=[39m[31m [36mnew[39m[31m [33mHttpHeaders[39m[31m()[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 10 |[39m[31m         [36mthis[39m[31m[33m.[39m[31mopenApiHeaders [33m=[39m[31m [36mthis[39m[31m[33m.[39m[31mopenApiHeaders[33m.[39m[31m[36mset[39m[31m([32m'Authorization'[39m[31m[33m,[39m[31m [32m`Bearer ${environment.OPENAPITOKEN}`[39m[31m)[33m;[39m[31m[0m[39m[22m
+[1m[31m[0m [90m 11 |[39m[31m     }[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[0m[91mError: [39m[31m[0m[96mlibs/core/src/lib/gptservice.service.ts[0m:[93m11[0m:[93m80[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.[39m[22m
+[1m[31m[39m[22m
+[1m[31m[7m11[0m   private CUSTOMURL = `https://${environment.SAMAPI}.execute-api.${environment.}.amazonaws.com/prod`;[39m[22m
+[1m[31m[7m  [0m [91m                                                                               ~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m362.23 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-07T17:23:17.490Z[39m[37m[22m - Hash: [1m[37m8bf180451785198b[39m[37m[22m - Time: [1m[37m432[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠦[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠧[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠇[39m Generating browser application bundles (phase: sealing)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m357.19 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-08T01:29:36.452Z[39m[37m[22m - Hash: [1m[37m15d47013d8873e54[39m[37m[22m - Time: [1m[37m1516[39m[37m[22mms[0m[39m
+[1m[31m[39m[22m
+[1m[31m[0m[36m./libs/core/src/lib/gpt-base/gpt-base.component.scss?ngResource[39m[31m[0m - [0m[91mError: [39m[31m[0mModule build failed (from ./node_modules/sass-loader/dist/cjs.js):[39m[22m
+[1m[31mExpected expression.[39m[22m
+[1m[31m  ╷[39m[22m
+[1m[31m4 │   color: ;[39m[22m
+[1m[31m  │          ^[39m[22m
+[1m[31m  ╵[39m[22m
+[1m[31m  libs/core/src/lib/gpt-base/gpt-base.component.scss 4:10  root stylesheet[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[37m[39m
+[37m[91m✖[39m[37m Failed to compile.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m [96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m [1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_core_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-core[2m | [22m[96m362.31 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-08T01:29:38.335Z[39m[37m[22m - Hash: [1m[37m3e40f4c94aad9c81[39m[37m[22m - Time: [1m[37m675[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_auth_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-auth[2m | [22m [96m7.82 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-08T02:27:53.850Z[39m[37m[22m - Hash: [1m[37m8cf126be8d2bbe30[39m[37m[22m - Time: [1m[37m708[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m
+[36m⠋[39m Generating browser application bundles...[2K[1G[36m⠙[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠹[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠸[39m Generating browser application bundles (phase: building)...[2K[1G[36m⠼[39m Generating browser application bundles (phase: sealing)...[2K[1G[36m⠴[39m Generating browser application bundles (phase: emitting)...[2K[1G[32m✔[39m Browser application bundle generation complete.
+[37m[39m
+[37m[0m[1mInitial Chunk Files[22m      [2m | [22m[1mNames[22m       [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mruntime.js[39m[37m               [2m | [22mruntime     [2m | [22m[96m12.61 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m[1mLazy Chunk Files[22m         [2m | [22m[1mNames[22m       [2m | [22m[1mRaw Size[22m[0m[39m
+[37m[0m[92mlibs_auth_src_index_ts.js[39m[37m[2m | [22mdeb-gpt-auth[2m | [22m [96m9.56 kB[39m[37m[2m | [22m[0m[39m
+[37m[0m[0m[39m
+[37m[0m5 unchanged chunks[0m[39m
+[37m[0m[0m[39m
+[37m[0mBuild at: [1m[37m2024-01-08T02:28:17.283Z[39m[37m[22m - Hash: [1m[37m31b49d00f51711a3[39m[37m[22m - Time: [1m[37m600[39m[37m[22mms[0m[39m
+[37m[39m
+[37m[92m✔[39m[37m Compiled successfully.[39m

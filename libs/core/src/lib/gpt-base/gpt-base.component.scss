@@ -1,0 +1,72 @@
+#bodybox {
+  margin: auto;
+  font: 15px arial, sans-serif;
+  color: white;
+
+
+}
+.modal-box{
+  width: auto;
+  margin-left: auto;
+  padding-right: 4vw;
+}
+
+#chatborder {
+  border-width: 3px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-radius: 15px;
+    margin: auto;
+    width: 100%;
+}
+
+#chatlog6{
+  min-height: 10rem;
+}
+
+#chatbox{
+  min-width: 65vw;
+  padding-left: 1.8rem;
+}
+
+.resp-textbox {
+  position: relative;
+  margin: 20px 0;
+  width: 300px;
+}
+
+.resp-textbox input {
+  border: 0;
+  border-bottom: 2px solid #333;
+  padding: 15px 0;
+  display: block;
+  font-size: 18px;
+  font-family: 'Muli', sans-serif;
+  width: 100%;
+  transition: 0.1s ease-in;
+}
+
+.resp-textbox input:focus,
+.resp-textbox input:valid {
+  border-bottom-color: darksalmon;
+  outline: none;
+}
+
+.resp-textbox input:focus + label span ,
+.resp-textbox input:valid + label span{
+  color: darksalmon;
+  transform: translateY(-30px);
+}
+
+.resp-textbox label {
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
+
+.resp-textbox label span {
+  display: inline-block;
+  font-size: 18px;
+  min-width: 5px;
+  transition: 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}

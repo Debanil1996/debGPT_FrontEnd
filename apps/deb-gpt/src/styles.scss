@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Importing Bootstrap SCSS file. */
+@import 'bootstrap/scss/bootstrap';
+
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+
+body{
+  background: rgb(143,179,155);
+  background: linear-gradient(90deg, rgba(143,179,155,1) 0%, rgba(58,92,57,0.9808517156862745) 100%);
+  color: white;
+}
+
+

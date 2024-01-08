@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx serve --project deb-gpt -o",
+    "startTime": "2024-01-08T04:03:05.953Z",
+    "endTime": "2024-01-08T04:29:49.758Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "deb-gpt:serve:development",
+      "target": "serve",
+      "projectName": "deb-gpt",
+      "hash": "12262984284823683494",
+      "startTime": "2024-01-08T04:03:05.957Z",
+      "endTime": "2024-01-08T04:29:49.736Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

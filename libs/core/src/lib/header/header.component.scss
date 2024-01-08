@@ -1,0 +1,55 @@
+main{
+  display: flex;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #fffdd0; /* Light yellow */
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+:host{
+  color: black;
+}
+.head{
+  width: 100%;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  padding: 5px 10px;
+  transition: background-color 0.3s;
+  cursor: pointer;
+}
+
+nav ul li a:hover {
+  background-color: #eee;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input {
+  padding: 5px 10px;
+  margin-right: 5px;
+}
+
+.search-bar button {
+  padding: 6px 12px;
+}
