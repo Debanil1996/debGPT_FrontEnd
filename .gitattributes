@@ -1,3 +1,4 @@
 *.log
 *.nx
  filter=lfs diff=lfs merge=lfs -text
+*.nx/* filter=lfs diff=lfs merge=lfs -text
